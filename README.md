@@ -1,7 +1,9 @@
-This is Simple Ruby Login Page, allows SignUp/SignIn/SignOut operations, based on Devise, stores all user data in a MySQL DB.
-Built and tested on Ubuntu 16.04
+# This is *Simple Ruby Login* Page, allows SignUp/SignIn/SignOut operations. 
+## Based on Devise, stores all user data in a MySQL DB.
 
-Installation is "simple", but first, some dependencies needed:
+### Built and tested on Ubuntu 16.04
+
+## Installation is *simple*, but first, some dependencies needed:
 
 ```
 sudo apt-get -y install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties libffi-dev nodejs
