@@ -72,8 +72,9 @@ to run in background.
 
 Your website will be accessible at http://localhost:3000  (start with ` -p ` flag to use different port)
 
-Sources used:
+
+
+#####Sources used:
 
 [Setup Ruby On Rails on Ubuntu 16.04 Xenial Xerus](https://gorails.com/setup/ubuntu/16.04)
-
 [How To Configure Devise and OmniAuth for Your Rails Application](https://www.digitalocean.com/community/tutorials/how-to-configure-devise-and-omniauth-for-your-rails-application#step-1-create-a-new-rails-application)
